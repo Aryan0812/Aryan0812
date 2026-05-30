@@ -24,7 +24,7 @@ Recently earned a Master’s in Computer Science from NJIT. Passionate about bui
 - Collaborated across teams to resolve full-stack issues, improving platform performance and user satisfaction.  
 
 **Software Developer – GEOACL LLC DBA Rainbow Secure** <span style="color:gray; font-style:italic;">| Old Bridge, NJ</span>  
-*Jul 2025 – Present*  
+*Jul 2025 – Nov 2025*  
 **Tech Stack:** WordPress, PHP, PostgreSQL, XAMPP  
 - Built a custom WordPress plugin for MFA authentication, enhancing login security for client websites.  
 - Developed a Stripe powered subscription portal, enabling scalable user and add-on based billing.  
