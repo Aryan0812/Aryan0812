@@ -8,14 +8,14 @@
 ---
 
 ## 🚀 About Me
-Full Stack Developer with 3+ years of experience in web and mobile application development, specializing in React.js, Vue.js, Angular, Node.js, and API integrations.  
-Recently earned a Master’s in Computer Science from NJIT. Passionate about building scalable, secure, and user-friendly applications, automating workflows, and leveraging the latest technologies to deliver impactful solutions.
+Full Stack Developer with 4+ years of experience in web and mobile application development, specializing in React.js, Vue.js, Angular, Node.js, and API integrations.  
+Recently earned a Master’s in Computer Science from New Jersey Institute of Technology. Passionate about building scalable, secure, and user-friendly applications, automating workflows, and leveraging the latest technologies to deliver impactful solutions.
 
 ---
 
 ## 💼 Work Experience
 
-**Full Stack Developer – Helix Wireless** <span style="color:gray; font-style:italic;">| East Brunswick, NJ</span>  
+**Full Stack Web Developer – Helix Wireless** <span style="color:gray; font-style:italic;">| East Brunswick, NJ</span>  
 *Jul 2025 – Present*  
 **Tech Stack:** React.js, Nest.js, PostgreSQL  
 - Built reusable React.js UI components, improving consistency and cutting feature development time by ~30%.  
