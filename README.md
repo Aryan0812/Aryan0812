@@ -8,62 +8,59 @@
 ---
 
 ## 🚀 About Me
-Full Stack Developer with 4+ years of experience in web and mobile application development, specializing in React.js, Vue.js, Angular, Node.js, and API integrations.  
-Recently earned a Master’s in Computer Science from New Jersey Institute of Technology. Passionate about building scalable, secure, and user-friendly applications, automating workflows, and leveraging the latest technologies to deliver impactful solutions.
+Full Stack Developer with 4+ years of experience building scalable, enterprise-grade web applications using React.js, Vue.js, Angular, Node.js, and Nest.js.
+Recently earned a Master's in Computer Science from New Jersey Institute of Technology. Passionate about building secure, user-friendly applications, automating workflows, and leveraging cloud infrastructure to deliver impactful solutions.
 
 ---
 
 ## 💼 Work Experience
 
-**Full Stack Web Developer – Helix Wireless** <span style="color:gray; font-style:italic;">| East Brunswick, NJ</span>  
-*Jul 2025 – Present*  
-**Tech Stack:** React.js, Nest.js, PostgreSQL  
-- Built reusable React.js UI components, improving consistency and cutting feature development time by ~30%.  
-- Delivered full-stack features with React.js and Nest.js, enhancing client workflows and user experience.  
-- Implemented RBAC and permission controls, strengthening security and enterprise user management.  
-- Collaborated across teams to resolve full-stack issues, improving platform performance and user satisfaction.  
+**Full Stack Web Developer – Helix Wireless Inc.** <span style="color:gray; font-style:italic;">| East Brunswick, NJ</span><br/>
+*Jul 2025 – Present*<br/>
+**Tech Stack:** React.js, Nest.js, TypeScript, PostgreSQL, AWS (S3, ECS, EC2, CloudWatch)
 
-**Software Developer – GEOACL LLC DBA Rainbow Secure** <span style="color:gray; font-style:italic;">| Old Bridge, NJ</span>  
-*Jul 2025 – Nov 2025*  
-**Tech Stack:** WordPress, PHP, PostgreSQL, XAMPP  
-- Built a custom WordPress plugin for MFA authentication, enhancing login security for client websites.  
-- Developed a Stripe powered subscription portal, enabling scalable user and add-on based billing.  
-- Designed and optimized UI/UX for their website using Elementor, improving customer engagement.  
-- Automated plugin setup workflows, reducing user workload by ~30% and minimizing configuration mistakes.  
+Progressed from Software Developer Intern to Full Stack Web Developer within a year, taking on increasing ownership of the product across the stack.
+- Architected a reusable React.js component library, enforcing design consistency and reducing feature development time by ~30%.
+- Built and shipped full-stack features using React.js and Nest.js, improving client workflows and end-user experience.
+- Implemented Role-Based Access Control (RBAC) and granular permission systems, strengthening enterprise-level security.
+- Leveraged AWS services — S3 for asset storage, ECS for containerized service deployment, EC2 for scalable compute, and CloudWatch for real-time monitoring and alerting — ensuring platform reliability and observability.
+- Collaborated cross-functionally to resolve full-stack issues, driving measurable improvements in platform performance and customer satisfaction.
 
-**Full Stack Developer – Ride Electric Vehicle Inc.** <span style="color:gray; font-style:italic;">| Newark, NJ</span>  
-*Jun 2024 – Present*  
-**Tech Stack:** Vue.js, Node.js, Firebase, HTML, CSS, Tailwind CSS  
-- Built a dashboard delivering fleet insights and vehicle specific data, improving visibility and decision making.  
-- Integrated Tesla, Smartcar, and EV connector APIs for real-time vehicle performance and charging insights.  
-- Automated daily updates on health, documents, and charging using Firebase Scheduler, reducing manual effort.  
-- Improved efficiency by 15% through faster access to critical insights and reduced user workload.  
+**Software Developer – Rainbow Secure (GeoACL LLC)** <span style="color:gray; font-style:italic;">| Old Bridge, NJ</span><br/>
+*Jul 2025 – Nov 2025*<br/>
+**Tech Stack:** WordPress, PHP, PostgreSQL, Stripe, XAMPP
+- Engineered a custom WordPress MFA plugin and automated its installation workflows, reducing unauthorized access risk and cutting user setup effort by ~30%.
+- Built a Stripe subscription portal with tiered billing and add-on management for scalable recurring revenue.
+- Redesigned website UI/UX using Elementor, improving customer engagement and on-site conversion.
 
-**Full Stack Developer – Reserve Bank Information Technology Private Limited (ReBIT)** <span style="color:gray; font-style:italic;">| Navi Mumbai, MH</span>  
-*Jun 2022 – Jul 2023*  
-**Tech Stack:** Angular 14, Java, MySQL, HTML, Bootstrap 5, CSS  
-- Developed a digital CMS for the Reserve Bank of India, digitizing document storage and retrieval.  
-- Translated UI/UX designs into responsive Angular 14 pages for cross-device accessibility.  
-- Implemented MySQL data storage with API interactions, enhancing system reliability and user experience.  
-- Improved efficiency by 20% through streamlined document management and faster user access.  
+**Full Stack Developer – Ride Electric Vehicle Inc.** <span style="color:gray; font-style:italic;">| Newark, NJ</span><br/>
+*Jun 2024 – Present*<br/>
+**Tech Stack:** Vue.js, Node.js, Firebase, Tailwind CSS, Gemini API
+- Built a real-time fleet management dashboard and integrated Tesla, Smartcar, and EV connector APIs for live vehicle performance, charging, and health monitoring.
+- Integrated a Gemini-powered chatbot to answer user queries from live database data, with plan-based usage controls to manage AI consumption and prevent abuse.
+- Automated daily health, document, and charging updates via Firebase Cloud Scheduler, reducing manual effort and improving efficiency by 15%.
 
-**Software Developer – Drishti Works** <span style="color:gray; font-style:italic;">| Mumbai, MH</span>  
-*Jun 2021 – May 2022*  
-**Tech Stack:** React.js, Vue.js, HTML, Bootstrap 5, CSS, Firebase  
-- Developed a web application for asset tracking using React.js, enabling real-time visibility of assets.  
-- Collaborated with third-party vendors to consolidate multiple systems into a single streamlined platform.  
-- Implemented Leaflet maps for real-time coordinates and geofencing, enhancing tracking accuracy.  
-- Used Firebase for authentication and real-time data storage, deployed on Google Cloud for reliability and scalability.  
+**Full Stack Developer – Reserve Bank Information Technology (ReBIT)** <span style="color:gray; font-style:italic;">| Navi Mumbai, India</span><br/>
+*Jun 2022 – Jul 2023*<br/>
+**Tech Stack:** Angular 14, Java, MySQL, Bootstrap 5
+- Built a digital CMS for the Reserve Bank of India, modernizing document storage and improving efficiency by 20%.
+- Translated UX designs into responsive Angular 14 pages and implemented MySQL schema with API integrations.
+
+**Software Developer Intern – Drishti Works** <span style="color:gray; font-style:italic;">| Mumbai, India</span><br/>
+*Jun 2021 – May 2022*<br/>
+**Tech Stack:** React.js, Vue.js, Firebase, Leaflet.js, Google Cloud
+- Built a React.js asset-tracking app with real-time maps and geofencing using Leaflet.js, integrating Firebase for auth and real-time data.
+- Unified multiple third-party systems into a single platform, deployed on Google Cloud for production scalability.
 
 ---
 
 ## 🎓 Education
 
-**New Jersey Institute of Technology (NJIT)**  
-MS in Computer Science (2023 – 2025)  
+**New Jersey Institute of Technology (NJIT)** — Newark, NJ
+M.S. in Computer Science (Sep 2023 – May 2025)
 
-**NMIMS University, Mumbai**  
-B.Tech in Computer Engineering (2016 – 2022)  
+**NMIMS University — Mukesh Patel School of Technology** — Mumbai, India
+B.Tech in Computer Engineering (Jul 2016 – May 2022)
 
 ---
 
@@ -75,18 +72,18 @@ B.Tech in Computer Engineering (2016 – 2022)
 ---
 
 ## 🏅 Certifications
-- React.js Essential Training – Jan 2024  
-- Advanced Angular Training – Nov 2022  
-- Full Stack Development – Jul 2022  
-- React Native + Hooks Course – Feb 2022  
+- React.js Essential Training – Jan 2024
+- Advanced Angular Training – Nov 2022
+- Full Stack Development – Jul 2022
+- The Complete React Native + Hooks Course – Feb 2022
 
 ---
 
 ## 🌐 Contact
-- 📧 aryanmjain785@gmail.com  
-- 🐙 [GitHub](https://github.com/Aryan0812)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan0812/)  
-- 📱 +1 (862) 423-6612  
+- 📧 aryanmjain785@gmail.com
+- 🐙 [GitHub](https://github.com/Aryan0812)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan0812/)
+- 📱 +1 (862) 423-6612
 
 ---
 
